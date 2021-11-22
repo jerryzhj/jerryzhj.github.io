@@ -1,8 +1,63 @@
 ---
 permalink: /about/
-title: "关于"
+title: "关于博主"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+
+本人，张航舰，现在是一个好吃懒做，天天不想好好学习，只想摸鱼的咸鱼家里蹲。
+
+**2016**年
+
+6月份毕业于安徽工业大学后，和同寝室室友一起步入上海，开始正式找工作。然而找到了一个日企的工作后光速离职，之后把时间花在了学习和打游戏上，过着白天和包老板一起打游戏，晚上5黑的快乐生活。
+
+**2017**年
+
+4月份，找到了人生中第一份正式工作，公司名称：上海朗风。工资6000。
+
+6月份，完成了数据库配置框架的我工资涨到了7000。
+
+8月份，被抓去了太原智奇铁路，完成了首个由该框架实现的APP，工资上涨到8000。
+
+11月份，回到上海后，参与和负责了上海动车段的智能定位系统的开发。
+
+对于自己不应该继续过着堕落的生活感到苦恼，提出离职。
+
+**2018年**
+
+4月份前，过着减肥学习打游戏的生活。
+
+4月8日，入职上海新致软件公司。参与AI整合平台的安卓SDK开发工作。
+
+7月15日，被抓去太平洋保险进行柜面机器人灵犀二号的开发工作。
+
+10月31日，机器人项目首次上线深圳。
+
+**2019年**
+
+2月，由于距离上班地点过远，我离开了我的大学室友。
+
+5月，主导灵犀3号小机器人的开发工作。
+
+**2020年**
+
+3月，换了更大的房间，持续跟进之前的工作。对工作产生厌烦，如果不是疫情，肯定就辞职了。
+
+7月，迎来了我家的猫，起名yoki，日文“雪”的意思
+
+10月，主导太保柜员机的开发工作。
+
+**2021年**
+
+4月15日，提出离职。之后过上了上班超级摸鱼的生活。
+
+6月1日，离职程序走完。开始在上海各处玩耍。
+
+6月15日，和我家猫一起，做二姐家的车返回合肥。
+
+9月22日，去上海玩耍时接到之前领导电话，答应帮忙。
+
+9月23日，开启兼职模式。
+
+11月22日，完成本简介的书写。
+
