@@ -17,4 +17,14 @@ tags:
 
 作为发布博客应该是完全够用啦！
 
-​		
+​		最简单的复制本文档的方式就是fork github上的本仓库，然后再做自己的修改。最初的这个就是这么来的，诶嘿。
+
+​		复杂一点的方式，就是使用jekyll [手动调试](https://jekyllrb.com/docs/installation/)
+
+​		下载安装按照官网上的来就行，装好之后在文件夹下使用
+
+```shell
+		jekyll serve
+```
+
+就好啦！		
